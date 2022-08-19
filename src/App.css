@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.heading{
+  
+  font-family: "system-ui";
+  font-size: 62px;
+  line-height: 160px; 
+  font-weight: normal; 
+  margin-bottom: 0px; 
+  margin-top: 40px; 
+  text-align: center; 
+  text-shadow: 0 1px 1px #fff;
+}
+
+.secondary{
+  font-family: "system-ui";
+  text-align: center;
+}
